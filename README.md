@@ -2,7 +2,7 @@
 
 Desafio proposto por Milena Carecho com o objetivo de praticar CSS por 30 dias
 
-## Desafios
+## Desafios Propostos
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
 * [Dia 02 - Loader animado](#id02)
 * [Dia 03 - Mudança de cor de texto quando entra em outra div](#id03)
