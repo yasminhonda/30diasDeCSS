@@ -41,3 +41,6 @@ Desafio proposto por Milena Carecho com o objetivo de praticar CSS por 30 dias
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/92547909/138710250-736eb2c2-da5d-41b6-a4f1-f4b8bb3c7e00.gif)
+
+##  Desafio dia 02 - Dia 02 - Loader animado <a name="id02"></a>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/92547909/139314786-39ebfe9e-8929-47c3-9e22-955efae0f6e2.gif)
