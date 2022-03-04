@@ -4,7 +4,7 @@ Desafio proposto por Milena Carecho com o objetivo de praticar CSS por 30 dias
 
 ##
 
-- Eu irei fazer 2 desafios por semana (seg. e quinta)
+- Interrompido...
 
 ## Desafios Propostos
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
